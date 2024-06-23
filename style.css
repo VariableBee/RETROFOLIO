@@ -1,0 +1,8 @@
+
+/*********** FONTE PIXELADA *************/
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+/* Aplica a fonte acima a todo elemento de classe="texto" */
+.texto {
+    font-family: 'VT323', monospace;
+}
