@@ -4,9 +4,6 @@
 
 - [Visão Geral](#visão-geral)
 - [Recursos](#recursos)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Personalização](#personalização)
 - [Contribuição](#contribuição)
 - [Licença](#licença)
 
